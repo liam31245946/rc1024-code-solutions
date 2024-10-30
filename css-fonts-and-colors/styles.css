@@ -3,11 +3,13 @@
 }
 
 body {
+  font-family: sans-serif;
   margin: 0;
 }
 
 section {
   padding: 1.5rem 0;
+  background-color: #e0f7fa;
 }
 
 h2 {
@@ -32,7 +34,7 @@ button {
 input {
   width: 400px;
   padding: 0.5rem;
-  border: 1px solid;
+  border: 1px solid #d3d3d3;
   font-weight: 300;
 }
 
@@ -42,4 +44,6 @@ button {
   margin-left: 0.25rem;
   border: none;
   font-weight: 500;
+  background-color: #28a745;
+  color: #fff;
 }
